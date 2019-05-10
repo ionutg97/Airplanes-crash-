@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\facultate anul3\spg\circles\spg_lab6_bratrobot_complet\spgopengl\spgopengl\main.cpp(72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\facultate anul3\spg\circles\spg_lab6_bratrobot_complet\spgopengl\spgopengl\main.cpp(82): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\facultate anul3\spg\circles\spg_lab6_bratrobot_complet\spgopengl\spgopengl\main.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\facultate anul3\spg\circles\spg_lab6_bratrobot_complet\spgopengl\spgopengl\main.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\facultate anul3\spg\circles\spg_lab6_bratrobot_complet\spgopengl\spgopengl\main.cpp(143): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\facultate anul3\spg\circles\spg_lab6_bratrobot_complet\spgopengl\spgopengl\main.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SPGOpenGL.vcxproj -> E:\facultate anul3\SPG\Circles\SPG_lab6_bratRobot_complet\SPGOpenGL\x64\Debug\SPGOpenGL.exe
+  SPGOpenGL.vcxproj -> E:\facultate anul3\SPG\Circles\SPG_lab6_bratRobot_complet\SPGOpenGL\x64\Debug\SPGOpenGL.pdb (Partial PDB)
